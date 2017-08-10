@@ -1,2 +1,1 @@
-alert('haha')
-console.log('123')
+console.log('app')
