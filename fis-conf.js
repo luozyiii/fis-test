@@ -18,7 +18,7 @@ fis.match('*.js', {
 
 fis.match('*.css', {
   useSprite: true,
-  // optimizer: fis.plugin('clean-css')
+  optimizer: fis.plugin('clean-css')
 });
 
 fis.match('*.png', {
